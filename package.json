@@ -1,0 +1,29 @@
+{
+  "name": "hyperproxy",
+  "version": "1.0.0",
+  "description": "hyperProxy",
+  "main": "hyperProxy.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hypermediaisobar/hyperProxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hypermediaisobar/hyperProxy/issues"
+  },
+  "homepage": "https://github.com/Hypermediaisobar/hyperProxy#readme",
+  "devDependencies": {
+    "cmd-exec": "^0.1.0",
+    "node-mime": "^1.0.0",
+    "prettyjson": "^1.1.3",
+    "walk": "^2.3.9"
+  }
+}
