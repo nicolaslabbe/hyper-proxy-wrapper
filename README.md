@@ -1,7 +1,7 @@
 Fast and simple hyperProxy wrapper
 ==================================
 
-Replace any remote file on any website by local files
+Replace any remote file on any website with local files
 
 Side project of beautiful [hyperProxy](https://github.com/Hypermediaisobar/hyperProxy)
 
