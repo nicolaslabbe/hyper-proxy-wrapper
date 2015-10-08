@@ -4,8 +4,12 @@ Fast and simple hyperProxy wrapper
 Side project of beautiful [hyperProxy](https://github.com/Hypermediaisobar/hyperProxy)
 
 ```shell
-git clone 
+git clone https://github.com/nicolaslabbe/hyper-proxy-wrapper.git
 ```
+
+## Dependancies
+
+- node/npm
 
 ## Install
 
@@ -16,7 +20,7 @@ npm install
 ## Run 
 
 ```shell
-node dynamique
+node dynamique.js
 ```
 
 ## Change your proxy configuration
